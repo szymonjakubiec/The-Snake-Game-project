@@ -1,0 +1,13 @@
+﻿  Główny.cpp
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,11): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,33): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,44): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,55): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,66): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,77): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,88): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Szymon\Desktop\Snake Game\Snake Game\Snake Game\Główny.cpp(55,99): warning C4309: "inicjowanie": obcięcie stałej wartości
+  testowy.cpp
+  Generowanie kodu...
+  Snake Game.vcxproj -> C:\Users\Szymon\Desktop\Snake Game\Snake Game\Debug\Snake Game.exe
